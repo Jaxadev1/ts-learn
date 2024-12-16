@@ -1,12 +1,9 @@
-import { Greet } from "./Greet"
-
 function App() {
-
   return (
     <>
-      <Greet/>      
+      gg
     </>
-  )
+  );
 }
 
-export default App
+export default App;
